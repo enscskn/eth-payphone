@@ -18,6 +18,7 @@ A script developed for your FiveM server that allows players to make calls using
 
 ### qb-phone/client/main.lua/any where
 
+```sh
 local PublicPhoneobject = {
     -2103798695,1158960338,
     1281992692,1511539537,
@@ -36,9 +37,12 @@ local PublicPhoneobject = {
     distance = 2.5,
 })
 
+```
 ### qb-phone/client/main.lua/line 401
 
+```sh
 exports('CallContact', CallContact)
+```
 
 ## Contact
 
