@@ -1,6 +1,6 @@
 # ETH PayPhone
 
-A script developed for your FiveM server that allows players to make calls using payphones throughout the city.
+A script developed for your FiveM server that allows players to make calls using payphones throughout the city. (Inspired by NoPixel)
 
 ## 🌟 Features
 
